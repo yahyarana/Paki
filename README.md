@@ -1,42 +1,72 @@
-# generator-kodi-addon [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Development Dependency Status][daviddm-image-dev]][daviddm-url-dev] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Creates the basic structure for a kodi script, written in python.
+ENJOY Pakistan IPTV links m3u!
 
-![Example](pictures/example-script.gif)
-
-## Installation
-
-First, install [Yeoman](http://yeoman.io) and generator-kodi-addon using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
-
-```bash
-npm install -g yo
-npm install -g generator-kodi-addon
-```
-
-Then generate your new project:
-
-```bash
-yo kodi-addon
-```
-
-## Development
-
- - Check out this project via git
- - Browse to the folder via commandline
- - Do `npm link`
- - Now you can use `yo kodi-addon`, which should include your changes.
-
-## License
-
-Apache-2.0 © [Kolja Lampe]()
-
-
-[npm-image]: https://badge.fury.io/js/generator-kodi-addon.svg
-[npm-url]: https://npmjs.org/package/generator-kodi-addon
-[travis-image]: https://travis-ci.org/xbmc/generator-kodi-addon.svg?branch=master
-[travis-url]: https://travis-ci.org/xbmc/generator-kodi-addon
-[daviddm-image]: https://david-dm.org/xbmc/generator-kodi-addon.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/xbmc/generator-kodi-addon
-[daviddm-image-dev]: https://david-dm.org/xbmc/generator-kodi-addon/dev-status.svg
-[daviddm-url-dev]: https://david-dm.org/xbmc/generator-kodi-addon?type=dev
-[coveralls-image]: https://coveralls.io/repos/xbmc/generator-kodi-addon/badge.svg
-[coveralls-url]: https://coveralls.io/r/xbmc/generator-kodi-addon
+#EXTINF:-1,==== + PAKISTAN CHANNELS +====
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2295.ts
+#EXTINF:-1,PK: GEO NEWS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1766.ts
+#EXTINF:-1,PK: NEW,S ONE
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2197.ts
+#EXTINF:-1,PK: SAMA NEWS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1691.ts
+#EXTINF:-1,PK: ARY NEWS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/502.ts
+#EXTINF:-1,PK: ARY ZINDGI
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3283.ts
+#EXTINF:-1,PK: ARY ZIAQA
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3282.ts
+#EXTINF:-1,PK: ARY QTV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3281.ts
+#EXTINF:-1,PK: APNA CHANNEL,S
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3280.ts
+#EXTINF:-1,PK: ABB TAK
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3278.ts
+#EXTINF:-1,PK: AAJ NEW,S
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3279.ts
+#EXTINF:-1,PK: A PLUS TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3277.ts
+#EXTINF:-1,PK: 24 CHANNEL
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2824.ts
+#EXTINF:-1,PK: ROZE NEWS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2256.ts
+#EXTINF:-1,PK: Dunya TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2195.ts
+#EXTINF:-1,PK: URDU 1
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1822.ts
+#EXTINF:-1,PK: EXPRESS NEWS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2255.ts
+#EXTINF:-1,PK: PTV SPORTS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1424.ts
+#EXTINF:-1,PK: PTV HOME
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2257.ts
+#EXTINF:-1,PK: PLAY ENTERTAINMENT
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3148.ts
+#EXTINF:-1,PK: Pashtoo1
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3149.ts
+#EXTINF:-1,PK: KTN
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3145.ts
+#EXTINF:-1,PK: KAY 2
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3146.ts
+#EXTINF:-1,PK: KAWISH TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3147.ts
+#EXTINF:-1,PK: APKA CHANNEL
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2825.ts
+#EXTINF:-1,PK: PTV NEW,S
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2258.ts
+#EXTINF:-1,PK: PEACE TV URDU
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2198.ts
+#EXTINF:-1,PK: MEDNI TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2199.ts
+#EXTINF:-1,PK: Hum TV HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1823.ts
+#EXTINF:-1,PK: Hum Sitaray HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1824.ts
+#EXTINF:-1,PK: GEO TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1844.ts
+#EXTINF:-1,PK: GEO SUPER HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1428.ts
+#EXTINF:-1,PK: Geo Kahani HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1825.ts
+#EXTINF:-1,PK: ATV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2101.ts
+#EXTINF:-1,PK: ARY_Digital_Plus
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1679.ts
